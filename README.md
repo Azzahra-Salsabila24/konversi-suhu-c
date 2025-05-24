@@ -29,4 +29,4 @@
 -	Array: 1 array of struct + 2 array string + 2 array dalam struct 
  
 ## Link Video Demo 
-
+https://youtu.be/5n7soDm1Qyg?si=6xRfDij3hSKL-SZm
