@@ -2,7 +2,7 @@
  
 ##   Identitas Mahasiswa 
 -	Nama: Azzahra Salsabila   
--	NIM: 240276
+-	NIM: 2402786
 -	Kelas: 2A PSTI 
  
 ##   Identitas Kakak Tingkat 
@@ -11,7 +11,7 @@
 -	Program Studi: Pendidikan Sistem dan Teknologi Informasi 
  
 ##   Permintaan Program 
-"Kakak minta dibuatkan program untuk mengkonversi nilai suhu seperti celcius ke fahreinheit, fahreinheit ke kelvin, kelvin ke celcius dan sebaliknya. serta tambahkan menu riwayat." 
+"Kakak ingin dibuatkan program untuk mengkonversi nilai suhu".
  
 ##   Penjelasan Program 
 -	Bahasa pemrograman yang digunakan: C
@@ -30,3 +30,4 @@
  
 ## Link Video Demo 
 https://youtu.be/5n7soDm1Qyg?si=6xRfDij3hSKL-SZm
+
